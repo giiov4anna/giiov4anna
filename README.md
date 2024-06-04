@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+sou aluna da tecnologia PEI Luiz darly
 <!--
 **giiov4anna/giiov4anna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
